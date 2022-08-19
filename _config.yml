@@ -26,7 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jacksuhkr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-header_text: 야호 이게 제목이야
+header_text: $ \dot{X} = -AX - \frac{1}{t}(X-X_0) $
+katex: true
 
 # Build settings
 theme: minima
