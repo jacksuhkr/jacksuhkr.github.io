@@ -1,7 +1,7 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
+title : Posts 
+permalink: /Posts/
 subtitle: "Projects I am working on" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
