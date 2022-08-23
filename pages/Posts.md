@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: home
 title : Posts 
 permalink: /Posts/
 subtitle: "Projects I am working on" 
@@ -8,3 +8,4 @@ tags: [Page]
 ---
 
 {% include portfolio.html %}
+
