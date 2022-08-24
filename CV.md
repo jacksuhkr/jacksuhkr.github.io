@@ -32,3 +32,18 @@ Seoul National University
 |:---|---|---|
 | **16-17**      |　　　　| **AILab, AIBrain** |
 |||Intern & Software Development Engineer(Android) |
+
+---
+# Fellowships and Awards
+
+| | | |  
+|:---|---|---|
+| **10-13**      |　　　　| National Scholarship for Science and Engineering |
+
+---
+# Other Experiences & Miscellaneous
+- Basic experience in Python, Java and C++.
+- Excellent Teaching Assistant Award in Department of Mathmatics, SNU, 2019
+- University Students Contest of Mathemaitcs (Bronze prize), 2016
+- College of National Sciences Undergraduate Winter Internship, 2015
+- Education outreach club activity, 2012-2014
