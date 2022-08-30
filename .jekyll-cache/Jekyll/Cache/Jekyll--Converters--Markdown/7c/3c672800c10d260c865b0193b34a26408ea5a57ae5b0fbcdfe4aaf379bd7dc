@@ -1,0 +1,14 @@
+I"y
+<h1 id="about-me">About me</h1>
+<p>My name is Jaewook J. Suh.<br />
+I’m a Ph.D. student in Mathematical Sciences at Seoul National University.<br />
+I studying optimization, and my advisor is <a href="http://www.math.snu.ac.kr/~ernestryu/">Ernest K. Ryu</a>.</p>
+
+<h1 id="current-research-interest">Current Research Interest</h1>
+<p>I am now interested in <strong>continuous-time analysis</strong> for accelerated methods in optimization theory.
+I recently suggested a novel framework called <strong>dilated-coordinate system</strong>, in the paper <a href="https://proceedings.mlr.press/v162/suh22a.html"><em>Continuous-Time Analysis of AGM via Conservation Laws in Dilated Coordinate Systems</em></a>.
+Seems it was interesting to other people as well, it is accepeted in ICML 2022 with long presentation :)</p>
+
+<p>I am now working on extending this framework to other settings!</p>
+
+:ET

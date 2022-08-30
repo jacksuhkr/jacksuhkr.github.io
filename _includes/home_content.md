@@ -2,7 +2,7 @@
 # About me
 My name is Jaewook J. Suh.  
 I'm a Ph.D. student in Mathematical Sciences at Seoul National University.  
-I am studying optimization, advised by [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/).
+I study optimization, and my advisor is [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/).
 
 
 # Current Research Interest
